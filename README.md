@@ -4,11 +4,11 @@
 
 I take electronics projects from **schematic to firmware**: designing **PCBs in KiCad** and writing **low-level C** for the hardware. Currently studying at ENSEA (French *Grande École* for electrical engineering, electronics & computer science), specializing in control systems and electronics, and looking for **an internship in electronics or robotics**.
 
-🌍 **Languages:** French (native) · English (C1, TOEIC 945/1000) · German (B1) · Japanese (B1)
+ **Languages:** French (native) · English (C1, TOEIC 945/1000) · German (B1) · Japanese (B1)
 
 ---
 
-## 🔧 Skills & Tools
+##  Skills & Tools
 
 **Electronics & PCB Design**
 KiCad · Schematic capture · PCB routing · Analog & digital electronics
@@ -24,7 +24,7 @@ C · Python · Java · SQL · Assembly
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 Check out my pinned repositories below 👇
 
@@ -33,15 +33,14 @@ Check out my pinned repositories below 👇
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 [e.g. real-time embedded systems · motor control · robotics] — always open to new hardware & robotics challenges.
 
 ---
 
-## 📫 Get in Touch
+##  Get in Touch
 
-- **LinkedIn:** [your LinkedIn URL]
 - **Email:** romane.gosselin@ensea.fr
 
 ---
